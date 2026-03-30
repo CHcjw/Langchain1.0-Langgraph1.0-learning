@@ -51,10 +51,6 @@ venv.bak/
 *.ipr
 *.iws
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb
-
 # Spyder
 .spyderproject
 .spyproject
